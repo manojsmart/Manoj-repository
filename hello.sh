@@ -1,2 +1,2 @@
 /bin/bash
-echo "iam manoj kumar from ymg"
+echo "i can achive one day what i want"
